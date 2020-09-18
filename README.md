@@ -2,6 +2,8 @@
 
 [Marshmellow](amelia_clips_marshmellow.csv)
 
+[Other](amelia_clips_other.csv)
+
 [Superliminal](amelia_clips_superliminal.csv)
 
 [Valorant](amelia_clips_valorant.csv)
